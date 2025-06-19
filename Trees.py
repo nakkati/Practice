@@ -51,10 +51,28 @@ class BST:
         
         return result
     
-    def read_tree(self, order):
-        "code to traverse a tree"
-        pass
+"""
+segment tree - binary tree to answer range queries in o(log n) with o(n) build time and o(n) space
+"""
 
+"""
+red black trees - balanced binary search trees
+"""
+
+
+"""
+splay trees - self organizing binary search trees - frequently used
+"""
+
+
+"""
+b-trees - For large datasets - but how large
+"""
+
+
+"""
+How does NCCL use trees or other libraries use them?
+"""
 
 """ Test code for BST """
 
@@ -72,18 +90,3 @@ def test_bst():
         print("bfs:", j)
 
 test_bst()
-
-
-"""
-Space and time complexity
-pros and cons
-real world usecases 
-typical corner cases
-other alternatives
-"""
-    
-# Inorder, preorder, postorder
-# Depth first search
-# Breadth first search
-# Self balancing trees
-# Priority Queue 
