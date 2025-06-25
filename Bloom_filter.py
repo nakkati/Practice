@@ -7,4 +7,5 @@ beam search
 prefix
 Trie
 N-array tree
+Skip lists
 """
